@@ -1,0 +1,9 @@
+c:\Arcteryx\Archaeomania\Domain\bin\Debug\Domain.dll
+c:\Arcteryx\Archaeomania\Domain\bin\Debug\Domain.pdb
+c:\Arcteryx\Archaeomania\Domain\obj\Debug\Domain.dll
+c:\Arcteryx\Archaeomania\Domain\obj\Debug\Domain.pdb
+C:\Development\Archaeomania\Domain\bin\Debug\Domain.dll
+C:\Development\Archaeomania\Domain\bin\Debug\Domain.pdb
+C:\Development\Archaeomania\Domain\obj\Debug\Domain.csprojResolveAssemblyReference.cache
+C:\Development\Archaeomania\Domain\obj\Debug\Domain.dll
+C:\Development\Archaeomania\Domain\obj\Debug\Domain.pdb

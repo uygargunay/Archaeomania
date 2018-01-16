@@ -1,0 +1,10 @@
+c:\Arcteryx\Archaeomania\RepositoryTests\obj\Debug\RepositoryTests.csprojResolveAssemblyReference.cache
+c:\Arcteryx\Archaeomania\RepositoryTests\bin\Debug\RepositoryTests.dll
+c:\Arcteryx\Archaeomania\RepositoryTests\bin\Debug\RepositoryTests.pdb
+c:\Arcteryx\Archaeomania\RepositoryTests\bin\Debug\Domain.dll
+c:\Arcteryx\Archaeomania\RepositoryTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+c:\Arcteryx\Archaeomania\RepositoryTests\bin\Debug\Repository.dll
+c:\Arcteryx\Archaeomania\RepositoryTests\bin\Debug\Domain.pdb
+c:\Arcteryx\Archaeomania\RepositoryTests\bin\Debug\Repository.pdb
+c:\Arcteryx\Archaeomania\RepositoryTests\obj\Debug\RepositoryTests.dll
+c:\Arcteryx\Archaeomania\RepositoryTests\obj\Debug\RepositoryTests.pdb

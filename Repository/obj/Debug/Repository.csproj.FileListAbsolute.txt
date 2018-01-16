@@ -1,0 +1,14 @@
+c:\Arcteryx\Archaeomania\Repository\bin\Debug\Repository.dll
+c:\Arcteryx\Archaeomania\Repository\bin\Debug\Repository.pdb
+c:\Arcteryx\Archaeomania\Repository\bin\Debug\Domain.dll
+c:\Arcteryx\Archaeomania\Repository\bin\Debug\Domain.pdb
+c:\Arcteryx\Archaeomania\Repository\obj\Debug\Repository.csprojResolveAssemblyReference.cache
+c:\Arcteryx\Archaeomania\Repository\obj\Debug\Repository.dll
+c:\Arcteryx\Archaeomania\Repository\obj\Debug\Repository.pdb
+C:\Development\Archaeomania\Repository\bin\Debug\Repository.dll
+C:\Development\Archaeomania\Repository\bin\Debug\Repository.pdb
+C:\Development\Archaeomania\Repository\bin\Debug\Domain.dll
+C:\Development\Archaeomania\Repository\bin\Debug\Domain.pdb
+C:\Development\Archaeomania\Repository\obj\Debug\Repository.csprojResolveAssemblyReference.cache
+C:\Development\Archaeomania\Repository\obj\Debug\Repository.dll
+C:\Development\Archaeomania\Repository\obj\Debug\Repository.pdb
